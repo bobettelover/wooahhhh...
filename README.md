@@ -34,6 +34,7 @@ Please keep things merry and bright! Here are my quick rules for interacting in-
 - Cassius, You know who you are.
 - Bring toxic vibes or drama into the festive circle.
 - Anyone who hates on tut skins, they're fine.
+-CoalCoralynne, I fucking hate you <3
 ```
 
 * **Hide Policy:** I like to keep my screen peaceful. If someone is being mean, trolling, or breaking my boundaries, I will use the hide button.
