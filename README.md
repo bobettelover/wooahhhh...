@@ -1,7 +1,7 @@
 # 🎄✨ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖙𝖍𝖊 𝕮𝖔𝖟𝖞 𝕭𝖆𝖐𝖊𝖗𝖞 ✨🎄
 
 <p align="center">
-  <img src="https://githubusercontent.com" alt="https://i.pinimg.com/736x/51/20/bb/5120bba0c7134cc98527b8875cb4712f.jpg" width="90" height="90" />
+  <img src="https://i.pinimg.com/736x/51/20/bb/5120bba0c7134cc98527b8875cb4712f.jpg" width="90" height="90" />
 </p>
 
 <p align="center">
