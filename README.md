@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <b>🎁 She/Her</b> • <b>❄️ Winter Lover</b> • <b>🥛 Timezone: EST</b><br>
+  <b>🎁 She/They</b> • <b>❄️ Winter Lover</b> • <b>🥛 Timezone: EST</b><br>
   <i>"Nicely wrapped up for the Holidays!"</i>
 </p>
 
@@ -28,6 +28,7 @@ Please keep things merry and bright! Here are my quick rules for interacting in-
 + Come sit next to me or talk about your favorite holiday traditions!
 + Any Dandy's World Fans!
 + Compliment pony!
++If you will hug/cuddle!
 
 - THE NAUGHTY LIST (DO NOT INTERACT)
 - Any gourdy Yume's, I don't wanna deal wit y'all! <3
