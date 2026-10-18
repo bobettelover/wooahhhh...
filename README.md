@@ -1,7 +1,7 @@
 # 🎄✨ 𝖂𝖊𝖑𝖈𝖔𝖒𝖊 𝖙𝖔 𝖙𝖍𝖊 𝕮𝖔𝖟𝖞 𝕭𝖆𝖐𝖊𝖗𝖞 ✨🎄
 
 <p align="center">
-  <img src="https://www.freebestfonts.com/fontpreview?font=FredokaOne-Regular&text=Welcome%20to%20Gardenview!" width="300" height="300" />
+  <img src="https://www.freebestfonts.com/fontpreview?font=FredokaOne-Regular&text=Welcome%20to%20Gardenview!" width="1000" height="300" />
 </p>
   <img src="https://i.pinimg.com/originals/7f/25/6d/7f256d497d2fed415c25fdc522c17b3f.gif" width="300" height="300" />
 </p>
