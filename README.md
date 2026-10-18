@@ -56,5 +56,5 @@ If you want to chat outside of the pony town:
 ---
 
 <p align="center">
-  <img src="https://komarev.com" alt="Profile views" />
+  <img src="https://bobettelover.com" alt="Profile views" />
 </p>
