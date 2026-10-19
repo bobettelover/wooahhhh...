@@ -1,22 +1,21 @@
-<a href=""><img src="https://collection.ju.mp/assets/images/gallery03/380792b4_original.png?v=0236594d"/></a>
+### Hi there 👋, Welcome to my Cottage!
+#### My name is Cali, Or bobettelover!
+![My name is Cali, Or bobettelover!](https://i.pinimg.com/originals/7f/25/6d/7f256d497d2fed415c25fdc522c17b3f.gif)
+
+Yes, I did use to have a AI made readme bio.. I apologize, I was too lazy to make my own! But I have made my own!
+
+Skills: playing pony town, writing, drawing, reading!
+
+- 🌱 I’m currently learning HTML coding! 
+- 💬 Ask me about Anything! 
+- 📫 How to reach me: Pony town! Or through my discord, bobettelover! 
+- 😄 Pronouns: She/They! 
+- ⚡ Fun fact: I have DID, epilepsy, and Autism! 
 
 
-<a href="https://collection.ju.mp"><img src="https://collection.ju.mp/assets/images/gallery35/1b4fa63c_original.gif?v=0236594d"/></a>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bobettelover)  
 
 
-<a href="https://collection.ju.mp"><img src="https://collection.ju.mp/assets/images/gallery07/55bb29cb_original.gif?v=0236594d"/></a>
-
-
-<a href="https://collection.ju.mp"><img src="https://collection.ju.mp/assets/images/gallery08/19bed247_original.png?v=0236594d"/></a>
-
-
-<a href="https://collection.ju.mp"><img src="https://collection.ju.mp/assets/images/gallery05/135159c3_original.gif?v=0236594d"/></a>
-
-
-<a href="https://collection.ju.mp"><img src="https://collection.ju.mp/assets/images/gallery03/df8be9b2_original.jpg?v=0236594d"/></a>
-
-
-<a href="https://external-media.spacehey.net/"><img src="https://external-media.spacehey.net/media/so-hMAPJC6oakMjOE5z3G-gUyrH-732atEWCcmyQiI4M=/https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/888e5b5d-b3f5-4252-ae12-7676f7a1d7bc/d1od0yj-472cbad7-2ea1-422b-bbc5-5b827e384248.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4OGU1YjVkLWIzZjUtNDI1Mi1hZTEyLTc2NzZmN2ExZDdiY1wvZDFvZDB5ai00NzJjYmFkNy0yZWExLTQyMmItYmJjNS01YjgyN2UzODQyNDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.YtrwjAfbEOMJSCoIyeQ8oPiA3id9-f1ZjJMEshTp0BI"/></a>
 
 
 <a href="https://im.ge/i/i5Jzoh"><img src="https://i.im.ge/2023/06/14/i5Jzoh.converse-fan-by-spitfire19er-d1bl2t3-fullview.png" alt="converse fan"/></a>
