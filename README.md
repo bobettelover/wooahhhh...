@@ -16,6 +16,8 @@ Skills: playing pony town, writing, drawing, reading!
 - ⚡ Fun fact: I have DID, epilepsy, and Autism! 
 
 
+<img SRC='https://files.catbox.moe/g6303u.gif' height='200' width='400'>
+
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bobettelover)  
 
 [<img SRC='https://i.pinimg.com/originals/f3/9a/32/f39a32ba4559d644d964fb9291c0db92.gif' height='200' width='250'>]
