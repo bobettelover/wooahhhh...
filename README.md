@@ -10,7 +10,7 @@ Skills: playing pony town, writing, drawing, reading!
 
 <img src='https://i.postimg.cc/RC2f44zw/bobettecarolynneblinkie.gif' height='100' width='300'>
 
-<img SRC='https://file.garden/aZUb6QkyAioQfA6V/dandys%20world%20blinkies/character%20blinkies/BobetteBlinkie.gif' height='50' width='300'
+<img SRC='https://file.garden/aZUb6QkyAioQfA6V/dandys%20world%20blinkies/character%20blinkies/BobetteBlinkie.gif' height='50' width='300'>
 - 🌱 I’m currently learning HTML coding! 
 - 💬 Ask me about Anything! 
 - 📫 How to reach me: Pony town! Or through my discord, bobettelover! 
