@@ -13,22 +13,7 @@
 
 <style>
 
-body {
-    background-color: #e3e3e3;
-    background: url(https://i.pinimg.com/564x/d3/87/38/d38738baf9d7ded484afe11d9ff871b8.jpg);
-    font-family: verdana, arial, sans-serif, helvetica;
-    background-size: 1000px;
-}
-
-body::before {
-    content: " ";
-    display: block;
-    position: fixed;
-    top: 0;
-    left: 0;
-    bottom: 0;
-    right: 0;
-    background: linear-gradient(rgb(82 15 15 / 48%) 50%, rgb(0 0 0 / 0%) 50%);
+(rgb(82 15 15 / 48%) 50%, rgb(0 0 0 / 0%) 50%);
     z-index: 2;
     background-size: 100% 2px, 3px 100%;
     pointer-events: none;
