@@ -5,7 +5,7 @@
 Yes, I did use to have a AI made readme bio.. I apologize, I was too lazy to make my own! But I have made my own!
 
 Skills: playing pony town, writing, drawing, reading!
-
+[<img src='https://i.postimg.cc/RC2f44zw/bobettecarolynneblinkie.gif' height='200' width='250'>]
 - 🌱 I’m currently learning HTML coding! 
 - 💬 Ask me about Anything! 
 - 📫 How to reach me: Pony town! Or through my discord, bobettelover! 
@@ -15,7 +15,6 @@ Skills: playing pony town, writing, drawing, reading!
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/bobettelover)  
 
-[<img='https://i.postimg.cc/RC2f44zw/bobettecarolynneblinkie.gif' height='200' width='250'>]
 [<img SRC='https://i.pinimg.com/originals/f3/9a/32/f39a32ba4559d644d964fb9291c0db92.gif' height='200' width='250'>]
 
 <a href="https://im.ge/i/i5Jzoh"><img src="https://i.im.ge/2023/06/14/i5Jzoh.converse-fan-by-spitfire19er-d1bl2t3-fullview.png" alt="converse fan"/></a>
